@@ -12,7 +12,10 @@
     "leaflet": "^1.9.4",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
+<<<<<<< HEAD
     "react-leaflet": "^5.0.0",
+=======
+>>>>>>> 43a7c78 (Save local changes before pulling latest code)
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
